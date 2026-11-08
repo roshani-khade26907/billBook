@@ -1,0 +1,6 @@
+{
+  "name": "Bill Book - Offline Shop Billing & UPI QR",
+  "description": "Smart offline billing, inventory, instant UPI QR payment, WhatsApp receipt sharing, and daily sales dashboard for local shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
